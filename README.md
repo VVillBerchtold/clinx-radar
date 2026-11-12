@@ -1,3 +1,12 @@
+<p>
+  <a href="https://clinx.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-dark.svg">
+      <img src="https://raw.githubusercontent.com/VVillBerchtold/clinx-org/main/public/brand/clinx-wordmark-on-light.svg" alt="ClinX" height="28">
+    </picture>
+  </a>
+</p>
+
 # clinx-radar
 
 A small tool that notices what changed in the federal 340B registry.
